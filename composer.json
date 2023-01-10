@@ -1,0 +1,19 @@
+{
+    "name": "surzhik/surzhik",
+    "description": "My first project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "system\\": "system/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Surzhik"
+        }
+    ],
+    "require": {
+
+    },
+    "minimum-stability": "dev"
+}
